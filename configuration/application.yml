@@ -6,4 +6,4 @@ eureka:
       
 config:
     server:
-        key: "Hello from GitHub ...."
+        key: "Hello from GitHub !!"
